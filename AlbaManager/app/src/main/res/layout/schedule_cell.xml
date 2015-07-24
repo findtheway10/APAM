@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/schedule_cell"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/cell_bg"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="7dp" >
+
+    <TextView
+        android:id="@+id/scheduleCellTextViewDay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/CellTextViewSchedule1"
+        android:layout_width="match_parent"
+        android:layout_height="7dp"
+        android:background="#ffff1100"
+        android:layout_marginTop="3dp"/>
+
+    <TextView
+        android:id="@+id/CellTextViewSchedule2"
+        android:layout_width="match_parent"
+        android:layout_height="7dp"
+        android:background="#ff0029ff"
+        android:layout_marginTop="3dp"/>
+
+    <TextView
+        android:id="@+id/CellTextViewSchedule3"
+        android:layout_width="match_parent"
+        android:layout_height="7dp"
+        android:background="#ff05ff00"
+        android:layout_marginTop="3dp"/>
+
+</LinearLayout>

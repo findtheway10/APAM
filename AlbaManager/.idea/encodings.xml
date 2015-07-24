@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/alba_manager/albamanager/Activity/PayActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/alba_manager/albamanager/Activity/ScheduleActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/alba_manager/albamanager/Fragment/NavigationDrawerFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/alba_manager/albamanager/Fragment/PayCaldroidFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/alba_manager/albamanager/Fragment/ScheduleCaldroidFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/alba_manager/albamanager/Model/MyData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/alba_manager/albamanager/Model/ScheduleItemModel.java" charset="UTF-8" />
+  </component>
+</project>

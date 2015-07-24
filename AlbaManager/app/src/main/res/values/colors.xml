@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--어플리케이션 색상 설정 파일-->
+<resources>
+    <!-- 기본 파랑색-->
+    <color name="color_baseBlue">#368AFF</color>
+    <!-- 기본 하양색(강조)-->
+    <color name="color_baseWhite">#FFFFFF</color>
+    <!-- 기본 검정(강조)-->
+    <color name="color_baseBlack">#000000</color>
+    <!-- 기본 background 색상-->
+    <color name="color_background">#FFFFFF</color>
+    <!-- listview 선택시 사용 색상-->
+    <color name="color_baseOrange">#ffbb33</color>
+    <!-- 투명 백그라운드 전용-->
+    <color name="color_blank">#00ff0000</color>
+    <!-- 기본 gray-->
+    <color name="color_baseGray">#888888</color>
+
+
+    <string-array name="default_color_choice_values" translatable="false">
+        <item>#368AFF</item>
+        <item>#33b5e5</item>
+        <item>#aa66cc</item>
+        <item>#99cc00</item>
+        <item>#ffbb33</item>
+        <item>#ff4444</item>
+        <item>#0099cc</item>
+        <item>#9933cc</item>
+        <item>#669900</item>
+        <item>#ff8800</item>
+        <item>#cc0000</item>
+        <item>#ffffff</item>
+        <item>#eeeeee</item>
+        <item>#cccccc</item>
+        <item>#888888</item>
+    </string-array>
+
+</resources>
